@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Hansanee Batawala 👋</h1>
 
-<!--
-**Hansi225/Hansi225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Undergraduate Student at SLIIT | Sri Lanka 🇱🇰</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Currently focusing on:</b> Project Management • UI/UX Design • Frontend Development • MERN Stack
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=800&color=00E6C3&center=true&vCenter=true&width=680&lines=Project+Manager;UI%2FUX+Designer;Frontend+Developer;MERN+Stack+Enthusiast" alt="Typing SVG" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hansi225&label=Profile%20Views&color=00E6C3&style=for-the-badge" alt="Profile Views" />
+</p>
+
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,html,css,js,react,mongodb,firebase,spring,java,python,kotlin,php,androidstudio&theme=dark&perline=10" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hansi225&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hansi225&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Hansi225&theme=github-dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/Hansi225" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/hansanee-batawala" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
